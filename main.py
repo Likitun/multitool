@@ -332,7 +332,7 @@ if os.path.exists(".env"):
 ██║  ██╗╚██████╔╝██████╔╝██║██║  ██╗
 ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═╝\n\n\n""", "light_magenta"))
         print(colored(f"{lang["welcome"]}\n","green",attrs=['underline']))
-        serveses = [colored(lang['quit'],"red"),colored(lang['download'],"white"),colored(lang["convert"],"cyan"),colored(lang['resize'],"light_green"),colored('Soundpad',"yellow"),colored(lang['ASCII'],"light_blue"),colored(lang['joke'],"light_grey"),colored(lang['qrcreatefunc'],"green"),colored(lang['qrread'],"dark_grey")]
+        serveses = [colored(lang['quit'],"red"),colored(lang['download'],"white"),colored(lang["convert"],"cyan"),colored(lang['resize'],"light_green"),colored(lang['ASCII'],"light_blue"),colored(lang['joke'],"light_grey"),colored(lang['qrcreatefunc'],"green"),colored(lang['qrread'],"dark_grey")]
         if API != "-1":
             serveses.append(colored(lang['tg'],"white","on_light_cyan"))
         print("==================\n")

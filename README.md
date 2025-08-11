@@ -26,15 +26,6 @@
 ### > 🖼 ASCII-арт
 - Генерация текстовых изображений из символов. Достаточно выбрать шрифт и ввести текст — результат автоматически копируется в буфер обмена.
 
-### > 🎧 Soundpad
-- Бесплатная альтернатива Soundpad.
-- Требования:
-
-    - Установленный виртуальный аудиокабель ([VB-Cable](https://vb-audio.com/Cable/)).
-
-    - Выбор [VB-Cable](https://vb-audio.com/Cable/) как микрофона в настройках приложений (Discord, Telegram и т.д.).
-    - Примечание: [VB-Cable](https://vb-audio.com/Cable/) нужен только для этой функции. Звуковые файлы загружайте в папку sounds.
-
 ### > ✉ Интеграция с Telegram
 - Отдельный модуль для:
 
@@ -69,17 +60,6 @@ This is a **humorous console-based** program combining several useful functions:
 - Creates text-based art from symbols.
 
 - Simply select a font, enter text — result auto-copies to your clipboard.
-
-### > 🎧 Soundpad Module
-- Free Soundpad alternative.
-
-- Requirements:
-
-    - Installed virtual audio cable ([VB-Cable](https://vb-audio.com/Cable/)).
-
-    - Set [VB-Cable](https://vb-audio.com/Cable/) as microphone in apps (Discord, Telegram, etc.).
-
-    - Note: [VB-Cable](https://vb-audio.com/Cable/) is only required for this feature. Load sound files into the sounds folder.
 
 ### > ✉ Telegram Integration
 - Dedicated module for:
