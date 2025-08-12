@@ -3,6 +3,7 @@
     "qrdecode": "Code decrypted:",
     "notqr": "QR code not found",
     "settings":"Settings",
+    "lang":"Language",
     "continue": "Press Enter to continue",
     "first": "Original text:",
     "qrcreate": "QR code created successfully!",
